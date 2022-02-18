@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: learn-graphql-java
+
+graphql:
+  servlet:
+    max-query-depth: 100
+    exception-handlers-enabled: true
